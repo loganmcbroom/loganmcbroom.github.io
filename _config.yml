@@ -9,3 +9,7 @@ aux_links: # remove if you don't want this link to appear on your pages
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "/assets/images/favicon.ico"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
