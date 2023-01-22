@@ -5,4 +5,4 @@ parent: Cryptography
 has_children: true
 ---
 
-Stuff about Alberti ciphers
+Example, delete
