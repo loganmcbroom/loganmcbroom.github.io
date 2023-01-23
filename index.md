@@ -4,6 +4,12 @@ layout: home
 nav_order: 1
 ---
 
+TODO:
+Some kind of page for extremely common ideas
+Main isomorph page
+
+---
+
 Note, this site is a work in progress and is largely unfinished in its current state.
 
 This website is dedicated to cataloguing and organizing any research that could be important to solving the Noita eye puzzle into a searchable format. No approach is too far fetched, but low effort documents will not be included. Some documents will be translated from their original form into markdown so they are easily searchable, but this may at times cause formatting errors. Some documents may remain only as links; for these documents, tags will be added adjacent to the link for better searchability.
@@ -54,15 +60,28 @@ Notice how W1/E1, W2/E2 etc. correspond with one another in their own words.
 Note that this is an example, and the messages will not be in this spot in your world.
 See [Finding the eyes](TODO) for how to find the eyes yourself in-game.
 
-### Messages
+### Messages And Trigrams
 
 Each message is displayed as a series of eye glyphs, with every other line offset slightly to mesh together. The game uses a string of digits from 0 to 5 to store the eye data like so:
 
 | 0 | 1 | 2 | 3 | 4 | 5 |
 | center | up | right | down | left | new line |
 
-The eye data, in a variety of formats can be found [here](https://docs.google.com/spreadsheets/d/195Rtc8kj4b74LtIyakqGP-iHhm36vyT5i8w7H5JjOV8/edit#gid=202652133). Note the tabs at the bottom for changing the data representation.
+All of the messages have an eye count divisible by three. This, along with the strange looking ending of each message, suggests the eyes should be grouped into alternating up and down triangles which are dubbed "trigrams". Note that the number of eyes in one message is exactly three times a prime number, so there are no further quantities into which they can be grouped. Converting each eye into its numeric representation, there are thirty six ways that these numbers can be ordered (accounting for up and down triangles having different ordering. Treating these numbers as the digits of a single base five number yields no discernable pattern in all but one arrangement, the canonical reading order. That arrangement yields every value from 0 to 82, and none of the values from 83 to 124, the maximum possible value for a three digit base five number. The chance of this happening randomly is small enough to be ruled out as having happened by chance, and so this reading is generally accepted as the correct interpretation. The base five numbers given by this reading, along with other raw formats for the eye data can be found [here](https://docs.google.com/spreadsheets/d/195Rtc8kj4b74LtIyakqGP-iHhm36vyT5i8w7H5JjOV8/edit#gid=202652133). Note the tabs at the bottom for changing the data representation.
 
-### Trigrams
+### Observable Patterns
 
-All of the messages have an eye count divisible by three. This, along with the strange looking ending of each message, suggests the eyes should be grouped into triangles which are dubbed "trigrams". Note that the number of eyes in one message is exactly three times a prime number, so there are no further quantities into which they can be grouped.
+The majority of the work put into the eye puzzle has been attempts do decipher the canonical reading of the eye messages using standard cryptographic techniques. See the cryptography section in the sidebar for comprehensive information on the techniques applied. Despite no solution having been found, a number of unusual properties are expressed by the data. The following properties listed by Pyry are the most notable.
+
+1. The messages have a relatively uniform frequency distribution.
+1. The messages contain all contiguous values from 0 to 82, and none above.
+1. The messages have significant shared sections.
+1. The shared sections are not disrupted by the first character of each message differing.
+1. The messages contain [isomorphs](TODO)
+1. The isomorphs have slightly differing compositions.
+1. No trigram appears twice in a row within the same message.
+1. The trigrams can appear at adjacent positions in different messages.
+
+### What Next?
+
+From here you can head in any direction. Very little (if any) progress exists outside the cryptography section, so that is likely the best place to start. The discord linked in the sidebar is where most active discussion on the puzzle happens, join there and ask Harry or Slurrps to give you access to the eye channels.
