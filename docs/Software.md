@@ -23,7 +23,7 @@ TODO: add tags to all this
 
 ### Community Created Tools
 
-- [NoitaEyeCipherTools](https://github.com/greystorm101/NoitaEyeCipherTools) by Joanie in Jupyter Notebook. Tools to analyse and visualise the statistical data.
+- [NoitaEyeCipherTools](https://github.com/greystorm101/NoitaEyeCipherTools) by Joanie in Jupyter Notebook. Tools to analyze and visualise eye related statistical data.
 - [Noita Eye Glyphs Cipher Bruteforcer]() by Azertinv in Rust. Aims to find the cipher of the eye glyphs using a search base fuzzer.
 - [SearchWangTiles](https://gist.github.com/vexx32/cfa23f44edfe4f29ffdcc4c8a77ccbfe) by 🌸Rain🌸 in Powershell. Searches Noita's terrain generation wang tiles for a specific pixel color.
 - [Toboter Scripts]() - TODO, discord links

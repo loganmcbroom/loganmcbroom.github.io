@@ -4,6 +4,8 @@ title: Cryptography Resources
 parent: Cryptography
 ---
 
+This page catalogues links for learning cryptography.
+
 ### General Classical Cryptography
 
 - [LANAKI’s Classical Cryptography Course](https://www.ahazu.com/papers/lanaki/)
