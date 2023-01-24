@@ -12,8 +12,5 @@ There is no way to systematically prove this is wrong, but it has been tried man
 ### It's a magic eye puzzle
 We have all tried it at least once. There isn't any serious documentation on this idea, so it is open to testing.
 
-### Use a Polybius square
-Check out the cryptography section to start learning about why it's not that.
-
 ### The earthquake spell has a hint
 This has been researched quite a lot! Information can be found [here](https://loganmcbroom.github.io/docs/Connected%20Puzzles/Earthquake%20Spell.html).
