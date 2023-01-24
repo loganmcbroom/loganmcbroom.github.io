@@ -4,12 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-TODO:
-Some kind of page for extremely common ideas
-Main isomorph page
-
----
-
 Note, this site is a work in progress and is largely unfinished in its current state.
 
 This website is dedicated to cataloguing and organizing any research that could be important to solving the Noita eye puzzle into a searchable format. No approach is too far fetched, but low effort documents will not be included. Some documents will be translated from their original form into markdown so they are easily searchable, but this may at times cause formatting errors. Some documents may remain only as links; for these documents, tags will be added adjacent to the link for better searchability.
