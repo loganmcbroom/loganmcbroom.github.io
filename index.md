@@ -10,6 +10,8 @@ This website is dedicated to cataloguing and organizing any research that could 
 
 This page serves as a jumping off point for anyone wanting to join in on solving the puzzle. Keep in mind, the low hanging fruit have been picked. It is hard to find ideas that haven't been explored to some degree. That's not to say the first thing you think of is not the answer, but it is worth searching here first for information on how others have approached the idea, and what information they might have gleaned from it. A spoiler warning is now in effect. The remainder of this page is transcribed from the [Noita Eye Glyph Messages](https://docs.google.com/document/d/1s6gxrc1iLJ78iFfqC2d4qpB9_r_c5U5KwoHVYFFrjy0/edit#heading=h.tf3tc7h8he20) document by Xkeeper with some minor modifications.
 
+
+TODO there should be a directory for getting started with all this below info and anything else needed to get set up
 ---
 
 There are nine messages that can be displayed via “eye” glyphs. Four of these are in West parallel worlds, five in East worlds. Internally, the messages are placed in East, West, East, West, etc. in alternating order.
@@ -49,7 +51,7 @@ The eye messages will be visible even if the game is saved and reloaded. A save 
 For the eyes to appear, the “mods_have_been_active_during_this_run” flag must not be set. This doesn’t mean that you can’t use mods, the game just can’t know about it. Using mods, saving and quitting, and manually editing world_state.xml will accomplish this (assuming you turned the mods off, of course). The eye messages will not be visible as long as the game thinks you have used mods during the run.
 
 Visual example of parallel world placement
-# image here
+TODO image here
 Notice how W1/E1, W2/E2 etc. correspond with one another in their own words.
 Note that this is an example, and the messages will not be in this spot in your world.
 See [Finding the eyes](TODO) for how to find the eyes yourself in-game.
@@ -71,7 +73,7 @@ The majority of the work put into the eye puzzle has been attempts do decipher t
 1. The messages contain all contiguous values from 0 to 82, and none above.
 1. The messages have significant shared sections.
 1. The shared sections are not disrupted by the first character of each message differing.
-1. The messages contain [isomorphs](TODO)
+1. The messages contain [isomorphs](https://loganmcbroom.github.io/docs/Cryptography/Isomorphs.html)
 1. The isomorphs have slightly differing compositions.
 1. No trigram appears twice in a row within the same message.
 1. The trigrams can appear at adjacent positions in different messages.
