@@ -14,7 +14,7 @@ if results == nil then
 else
 	local eye_spawn_address = tonumber(results[0], 16)-0xE
 	results.destroy()
- 
+
 	print(string.format("Eye spawn address: %x", eye_spawn_address))
   	debug_setBreakpoint(eye_spawn_address, function()
     	local x = 0
@@ -26,5 +26,5 @@ else
 end
 ```
 
-A c++ version of this can be found [here](https://pastebin.com/rXNsPi47) (this code can stay in a link, it is spaghetti).
+A c++ version of this can be found [here](https://pastebin.com/rXNsPi47) (this code can stay in a link, it is long spaghetti).
 
