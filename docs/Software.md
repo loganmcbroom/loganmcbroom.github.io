@@ -18,7 +18,7 @@ TODO: add tags to all this
 - [CrypTool 2](https://www.cryptool.org/en/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Cryptii](https://cryptii.com/)
-- [Ciphey](https://github.com/Ciphey/Ciphey
+- [Ciphey](https://github.com/Ciphey/Ciphey)
 - [Practical Cryptography](http://practicalcryptography.com/)
 
 ### Community Created Tools
