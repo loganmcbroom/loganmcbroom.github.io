@@ -6,7 +6,9 @@ nav_order: 1
 
 Note, this site is a work in progress and is largely unfinished in its current state.
 
-This website is dedicated to cataloguing and organizing any research that could be important to solving the Noita eye puzzle into a searchable format. No approach is too far fetched, but low effort documents will not be included. Some documents will be translated from their original form into markdown so they are easily searchable, but this may at times cause formatting errors. Some documents may remain only as links; for these documents, tags will be added adjacent to the link for better searchability.
+This website is dedicated to cataloguing and organizing any research that could be important to solving the Noita eye puzzle into a searchable format. No approach is too far fetched, but low effort documents will not be included. Some documents are translated from their original form into markdown so they are easily searchable, but this may at times cause formatting errors. Some documents may remain only as links; for these documents, tags will be added adjacent to the link for better searchability.
+
+
 
 This page serves as a jumping off point for anyone wanting to join in on solving the puzzle. Keep in mind, the low hanging fruit have been picked. It is hard to find ideas that haven't been explored to some degree. That's not to say the first thing you think of is not the answer, but it is worth searching here first for information on how others have approached the idea, and what information they might have gleaned from it. A spoiler warning is now in effect. The remainder of this page is transcribed from the [Noita Eye Glyph Messages](https://docs.google.com/document/d/1s6gxrc1iLJ78iFfqC2d4qpB9_r_c5U5KwoHVYFFrjy0/edit#heading=h.tf3tc7h8he20) document by Xkeeper with some minor modifications.
 
