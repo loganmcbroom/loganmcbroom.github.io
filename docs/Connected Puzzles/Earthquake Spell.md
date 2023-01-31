@@ -4,4 +4,7 @@ title: Earthquake Spell
 parent: Connected Puzzles
 ---
 
-omg earthquake spell 011101010000000 (TODO)
+TODO: need to find all the info on this, seems like it's pretty scattered in discord messages
+
+---
+Tags: Earthquake Spell Binary

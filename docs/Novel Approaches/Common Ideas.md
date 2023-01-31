@@ -14,3 +14,6 @@ We have all tried it at least once. There isn't any serious documentation on thi
 
 ### The earthquake spell has a hint
 This has been researched quite a lot! Information can be found [here](https://loganmcbroom.github.io/docs/Connected%20Puzzles/Earthquake%20Spell.html).
+
+---
+Tags:

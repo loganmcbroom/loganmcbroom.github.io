@@ -8,8 +8,6 @@ Many programs accross many languages have been written to process and analyze th
 
 ---
 
-TODO: add tags to all this
-
 ### General Cryptography
 
 - [AZdecrypt 1.21](https://www.freebasic.net/forum/viewtopic.php?p=291238#p291238)
@@ -34,3 +32,6 @@ TODO: add tags to all this
 - [Noita Eye Glyph Research](https://github.com/Doctor-Ned/NoitaEyeGlyphResearch) by Nemare (or Capybar? TODO) in C#. General eye message manipulation and analysis tools.
 - [NoitaCryptographyResearch](https://github.com/ngraham20/NoitaCryptographyResearch) by Raevenant in Python, Rust, and Lua. Not entirely sure what this does.
 - [Pam5 Subset Map](https://github.com/lastCoyotes/eyeGlyphs) by lastcoyotes in Python. No description is given but it handles something involving [pam5 encoding](https://www.edn.com/what-pam5-means-to-you/).
+
+---
+Tags: 

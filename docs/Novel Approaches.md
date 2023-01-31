@@ -8,7 +8,7 @@ This directory is for cataloging any research that does not treat the eyes as a 
 
 ---
 
-TEMP dump spot for tested in game ideas, a lot of this is from the toboter doc but without real references. Might need a page just for dumping all the random silliness that's been tried without documentation.
+TEMP dump spot for tested in game ideas, a lot of this is from the toboter doc but without references. Might need a page just for dumping all the random silliness that's been tried without documentation.
 
 - Drawing lines in the directions of the eyes, read row-wise, column-wise and in trigram order, ignoring front-facing ones (User: Toboter; Result: Random patterns, tending up-right, small clustered areas with longer stretched of lines)
 - Drawing lines, having the line drawer turn in the direction the eyes are facing (relative to its current direction) (User: Toboter, Result: Failure)
