@@ -14,4 +14,4 @@ The actual eye data images
 
 [Google sheet with variety of eye data formats](https://docs.google.com/spreadsheets/d/195Rtc8kj4b74LtIyakqGP-iHhm36vyT5i8w7H5JjOV8/edit#gid=202652133)
 
-[Google sheet with arithmetic progressions of eye data of the form 4n+k](https://docs.google.com/spreadsheets/d/10YpLssVCkzY2C3PYNIlSAikuxWJ1rTp_0VUC1mkDS2A/edit#gid=202652133)
+[Google sheet with arithmetic progressions of eye data of the form 4n+k](https://docs.google.com/spreadsheets/d/10YpLssVCkzY2C3PYNIlSAikuxWJ1rTp_0VUC1mkDS2A/edit?usp=sharing)
