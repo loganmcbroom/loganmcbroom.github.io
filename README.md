@@ -1,6 +1,6 @@
 # Silmä Huone Wiki 
 
-This repository generates a [wiki site](https://loganmcbroom.github.io/) for the Noita eye puzzle.
+This repository generates a [wiki site](https://loganmcbroom.github.io/) for [Flan](https://github.com/loganmcbroom/Flan) and by extension [Falter](https://github.com/loganmcbroom/Falter).
 
 This wiki is built using the [just-the-docs][Just the Docs] theme.
 
