@@ -1,17 +1,17 @@
-title: Silmä Huone Wiki
-description: A documentation center for the Noita eye puzzle community
+title: Flan Wiki
+description: A documentation center for Flan audio algorithms and related front-ends.
 theme: just-the-docs
 
 url: https://loganmcbroom.github.io/loganmcbroom.github.io
 
 aux_links:
-  "Silmä Huone Wiki Repository": 
+  "Flan Wiki Repository": 
     - "https://github.com/loganmcbroom/loganmcbroom.github.io"
 
 # External navigation links
 nav_external_links:
-  - title: Noita Discord
-    url: https://discord.gg/noita
+  - title: CDP Discord
+    url: https://discord.gg/QmQuJKB
     hide_icon: false
 
 
